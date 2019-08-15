@@ -5,4 +5,4 @@ Sessi 01 & 02:
 
 Sessi 03 & 04:
 - Pengenalan GIT & Repository
-- Koneksi Database Dinamis
+- Koneksi Database Dinamis (Akan dipull 20 Agustus 2019) 

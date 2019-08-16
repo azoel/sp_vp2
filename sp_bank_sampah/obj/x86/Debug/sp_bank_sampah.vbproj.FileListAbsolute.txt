@@ -1,0 +1,11 @@
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\bin\Debug\sp_bank_sampah.exe.config
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\bin\Debug\sp_bank_sampah.exe
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\bin\Debug\sp_bank_sampah.pdb
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\bin\Debug\sp_bank_sampah.xml
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\obj\x86\Debug\sp_bank_sampah.vbprojResolveAssemblyReference.cache
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\obj\x86\Debug\sp_bank_sampah.Resources.resources
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\obj\x86\Debug\sp_bank_sampah.setting_db.resources
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\obj\x86\Debug\sp_bank_sampah.vbproj.GenerateResource.Cache
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\obj\x86\Debug\sp_bank_sampah.exe
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\obj\x86\Debug\sp_bank_sampah.xml
+D:\AMIK\semester pendek\visual 2\sp-visual2\sp_vp2\sp_bank_sampah\obj\x86\Debug\sp_bank_sampah.pdb

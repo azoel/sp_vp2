@@ -16,6 +16,13 @@
 *.userosscache
 *.sln.docstates
 
+#VB.NET
+App.config
+My Project/Settings.Designer.vb
+My Project/Settings.settings
+obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+sp_bank_sampah.suo
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

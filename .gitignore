@@ -18,10 +18,11 @@
 
 #VB.NET
 App.config
-My Project/Settings.Designer.vb
-My Project/Settings.settings
-obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-sp_bank_sampah.suo
+sp_bank_sampah/App.config
+sp_bank_sampah/My Project/Settings.Designer.vb
+sp_bank_sampah/My Project/Settings.settings
+sp_bank_sampah/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+sp_bank_sampah/sp_bank_sampah.suo
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
